@@ -29,5 +29,7 @@ Default value: false.
     </code>
 </pre>   
  
+Don't forget to register BooleanType class as service.
+See: https://github.com/alexastro/SymfonyFormBooleanType/blob/master/Resources/config/services.xml
  
 More about custom form types in Symfony: http://symfony.com/doc/current/cookbook/form/create_custom_field_type.html
